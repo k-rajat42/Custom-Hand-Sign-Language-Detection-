@@ -150,6 +150,4 @@ MIT — free for personal and academic use.
 
 ---
 
-## 👥 Team 112
 
-Built as a final-year project exhibition. Refinements and extra features added for open-source release.
